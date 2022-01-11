@@ -1,0 +1,19 @@
+{
+    "imgur": {
+        "useHttps": true,
+        "clientID": "",
+        "clientSecret": "",
+        "refreshToken": "",
+        "apiDomain": "api.imgur.com",
+        "apiVersion": 3,
+        "imageDomain": "i.imgur.com",
+        "albumID": ""
+    },
+    "proxy": {
+        "port": ":3000",
+        "useMediaHub": false,
+        "useAlbum": false,
+        "enableResourceStats": true,
+        "disablePublicResources": false
+    }
+}
